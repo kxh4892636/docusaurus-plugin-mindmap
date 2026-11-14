@@ -1,6 +1,6 @@
 {
   "name": "@kxh4892636/docusaurus-plugin-mindmap",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Read-only mindmaps rendered from markdown headings, with build-time validation.",
   "license": "MIT",
   "repository": {
