@@ -8,3 +8,6 @@ coverage
 .vite-hooks
 test-results
 playwright-report
+
+# release 制品需要进仓库供外部按 URL 安装
+!release/*.tgz
